@@ -1,1 +1,2 @@
-<a href="https://marcoliu1020.github.io/Rotating-Loader/" target="_blank">example</a>
+![Alt text](image.jpg)
+- <a href="https://marcoliu1020.github.io/Rotating-Loader/" target="_blank">example</a>
